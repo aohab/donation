@@ -44,6 +44,7 @@ h4 {
     display: flex;
     justify-content: space-evenly;
     height: 20px;
+    padding-bottom: 6%;
 }
 
 h2 {
@@ -64,9 +65,8 @@ h5 {
     margin: 20px;
     background-color: rgb(213, 226, 226);
     border-radius: 7px;
-    padding: 20px;
-    padding-top: 20px;
     font-size: 25px;
+    padding: 20px;
 }
 
 #color {
@@ -74,4 +74,23 @@ h5 {
     background-color: rgb(231, 196, 190);
     color: tomato;
 
+}
+
+.type-amount {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.link-2 {
+    padding-top: 2%;
+}
+
+input {
+    text-align: center;
+    border: none;
+    resize: none;
+}
+
+.line {
+    width: 40%;
 }
